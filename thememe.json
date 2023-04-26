@@ -135,13 +135,13 @@
        
     },
     "spec": 2
-}
+
     },
   
       "background": {
-    "blur": 0.5,
+    "blur": 0.0,
     "url": "https://media.discordapp.net/attachments/1071109137485803656/1100756802246807552/IMG_4420.jpg",
-    "alpha": 0.7
+    "alpha": 0.9
     },
     "color": "#4d4463"
 }
