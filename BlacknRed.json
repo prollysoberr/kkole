@@ -223,8 +223,8 @@
     "background": {
     "url":
 "https://media.discordapp.net/attachments/10711/IMG_4420.jpg",
-    "blur": 1,
-    "alpha": 0.6
+    "blur": 0,
+    "alpha": 0.9
  
   },
   "color": "#D2042D"
