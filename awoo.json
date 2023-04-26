@@ -1,0 +1,108 @@
+{
+  "name": "awoo",
+  "version": "1.0",
+  "description": "barl",
+  "authors": [
+    {
+      "name": "prollysoberr#4563",
+      "id": "1067321691061092392"
+    }
+  ],
+  "semanticColors": {
+
+    "HEADER_PRIMARY": ["#E3E3E3"],
+
+    "HEADER_SECONDARY": ["#D3D3D3"],
+
+    "TEXT_NORMAL": ["#F0F0F0"],
+
+    "TEXT_MUTED": ["#D2D2D2"],
+
+    "INTERACTIVE_NORMAL ": ["#B9B9B9"],
+
+    "INTERACTIVE_HOVER": ["#C8C8C8"],
+
+    "INTERACTIVE_ACTIVE": ["#D3DBD1"],
+
+    "INTERACTIVE_MUTED": ["#9E9E9E"],
+
+    "CHANNELS_DEFAULT": ["#B5B5B5"],
+
+    "CHANNEL_ICON": ["#B4B4B4"],
+
+    "BACKGROUND_PRIMARY": ["#525252"],
+
+    "BACKGROUND_SECONDARY": ["#454545"],
+
+    "BACKGROUND_SECONDARY_ALT": ["#393939"],
+
+    "BACKGROUND_TERTIARY": ["#212121"],
+
+    "BACKGROUND_ACCENT": ["#C4C4C4"],
+
+    "BACKGROUND_FLOATING": ["#474747"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#585858"],
+
+    "BACKGROUND_MOBILE_SECONDARY": ["#424242"],
+
+    "BACKGROUND_MODIFIER_SELECTED": ["#1B1B1B"],
+
+    "BACKGROUND_MODIFIER_ACTIVE": ["#161616"],
+
+    "BACKGROUND_MODIFIER_ACCENT": ["#4F4F4F"],
+
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#DADADA"],
+
+    "SCROLLBAR_THIN_THUMB": ["#414141"],
+
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+
+    "SCROLLBAR_AUTO_THUMB": ["#4C4C4C"],
+
+    "SCROLLBAR_AUTO_TRACK": ["#454545"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#5B5B5B"],
+
+    "CHAT_BACKGROUND": ["#5E5E5E"]
+
+  },
+
+  "rawColors": {
+
+    "PRIMARY_100": "#E3E3E3",
+
+    "PRIMARY_200": "#E2E2E2",
+
+    "PRIMARY_300": "#F4F4F4",
+
+    "PRIMARY_400": "#E0E0E0",
+
+    "PRIMARY_600": "#595959",
+
+    "PRIMARY_630": "#484848",
+
+    "PRIMARY_660": "#242424",
+
+    "PRIMARY_700": "#595959",
+
+    "PRIMARY_800": "#252525",
+
+    "BRAND_260": "#C0C0C0",
+
+    "BRAND_360": "#C0C0C0",
+
+    "BRAND_500": "#C0C0C0",
+
+    "BRAND_560": "#6F6F6F"
+  },
+   "CHAT_GREY": "#101014",
+    "background": {
+    "url":
+"https://media.discordapp.net/attachments/1071109137485803656/1100805889339961424/Screenshot_20230426_112918_Gallery.jpg",
+    "blur": 0,
+    "alpha": 0.8
+ 
+  },
+  "color": "#D2042D"
+}
