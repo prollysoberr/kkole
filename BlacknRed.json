@@ -1,7 +1,7 @@
 {
-  "name": "BlacknRed",
+  "name": "awoo",
   "version": "1.0",
-  "description": "A Black theme with red accents & background ",
+  "description": "barl",
   "authors": [
     {
       "name": "prollysoberr#4563",
@@ -222,9 +222,9 @@
    "CHAT_GREY": "#101014",
     "background": {
     "url":
-"https://media.discordapp.net/attachments/1071109137485803656/1100769216262582332/GridArt_20230426_090342296.jpg",
-    "blur": 0,
-    "alpha": 0.9
+"https://media.discordapp.net/attachments/1071109137485803656/1100804887362687017/downloadfile.gif",
+    "blur": 1,
+    "alpha": 0.6
  
   },
   "color": "#D2042D"
